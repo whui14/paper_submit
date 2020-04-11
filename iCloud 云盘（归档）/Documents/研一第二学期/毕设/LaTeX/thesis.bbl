@@ -1,0 +1,236 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname url\endcsname\relax
+  \def\url#1{\texttt{#1}}\fi
+\expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
+
+\bibitem{DBLP:series/txcs/Voorhees20}
+D.~P. Voorhees, Guide to Efficient Software Design - An {MVC} Approach to
+  Concepts, Structures, and Models, Texts in Computer Science, Springer, 2020.
+\newline\urlprefix\url{https://doi.org/10.1007/978-3-030-28501-2}
+
+\bibitem{yy}
+杨毅, 高校餐饮管理系统的设计与实现, Ph.D. thesis, 天津大学.
+
+\bibitem{gcf}
+郭朝飞, 郭纭记, 美味不用等:餐饮互联网化新玩法,
+  中国企业家 No.491~(24)  79--82.
+
+\bibitem{htxO2O}
+侯腾轩, O2o外卖平台商业模式研究r——以"美团外卖"为例,
+  全国流通经济 000~(22)  7--8.
+
+\bibitem{DBLP:journals/jbi/VelupillaiSLRSM18}
+S.~Velupillai, H.~Suominen, M.~Liakata, A.~Roberts, A.~Shah, K.~Morley,
+  D.~Osborn, J.~Hayes, R.~Stewart, J.~Downs, W.~W. Chapman, R.~Dutta, Using
+  clinical natural language processing for health outcomes research: Overview
+  and actionable suggestions for future advances, J. Biomed. Informatics 88
+  (2018) 11--19.
+\newline\urlprefix\url{https://doi.org/10.1016/j.jbi.2018.10.005}
+
+\bibitem{tyd2019}
+唐亚东, 罗恩韬, 赵全友,
+  基于mvc模式的湘科院点餐系统的设计与实现, 期刊 (2019)
+  2--4.
+
+\bibitem{xf2012}
+薛峰, 梁锋, 徐书勋, 王彪任, 基于 spring mvc 框架的 web
+  研究与应用, 合肥工業大學學報 (自然科學版) 35~(3) (2012)
+  337--340.
+
+\bibitem{ab2006}
+A.~Bretet, 张龙, 覃璐, 李哲, 丁涛, Spring mvc实战, 期刊 (2019)
+  2--4.
+
+\bibitem{ln2019}
+李娜, 基于spring cloud微服务架构的应用,
+  电子技术与软件工程~(12) (2019) 142--142.
+
+\bibitem{hqw2019}
+黄强文, 曾丹, 基于spring
+  cloud和docker的分布式微服务架构设计, 微型电脑应用.
+
+\bibitem{mys}
+毛煜苏, 基于spring cloud微服务架构的评论系统的设计与实现,
+  Ph.D. thesis, 华中科技大学.
+
+\bibitem{gblSpringBoot}
+葛宝龙, 邓欣, 秦嘉罗,
+  Springboot集成redis缓存在电信运营系统中的应用研究,
+  中国新通信~(23)  106--108.
+
+\bibitem{zch2017}
+张火成, 张宏升,
+  基于websocket和redis的实时web监控技术在wifi管理上的应用,
+  信息与电脑(理论版)~(6) (2017) 43--45.
+
+\bibitem{wyl2019}
+王悦霖, 刘立士, 韩东奇, 基于 redis
+  的分布式通信算法在仿真前后台的应用与测试,
+  科技创新导报~(26) (2019) 74.
+
+\bibitem{xmh2019}
+徐茂红, 王飞, 张明, 基于大数据量的 redis 技术应用与研究,
+  信息技术与信息化~(11) (2019) 83.
+
+\bibitem{wzf}
+王张夫, 基于nginx和redis架构的高并发框架的设计与研究,
+  信息通信~(2).
+
+\bibitem{yxq}
+严新巧, 基于移动开发现状探讨react native,
+  电脑知识与技术~(32).
+
+\bibitem{lh}
+李欢, 李云红, 张震宇,
+  基于react＋webpack的“健康资讯”app开发,
+  西安工程大学学报~(4)  455--460.
+
+\bibitem{hhl2011}
+何红雷, 位置即生活——高德地图amap上市, 微电脑世界~(6)
+  (2011) 133--133.
+
+\bibitem{lb2019kafka}
+刘邦, 余华平, Kafka 分布式消息队列的高性能研究,
+  电脑知识与技术~(32) (2019) 3.
+
+\bibitem{gzy}
+顾振德, 刘子辰, 龙隆, 牟林宏,
+  基于netty的iot终端通信服务系统设计, 计算机应用与软件
+  36~(04)  141--145.
+
+\bibitem{lb2009}
+骆斌, 需求工程:软件建模与分析, 2009.
+
+\bibitem{ymh}
+严茂宏, 软件工程与计算机应用, 桂林电子科技大学学报~(01)
+  8--16.
+
+\bibitem{zh2015}
+张华, 软件工程专业毕业设计质量提高的研究,
+  电脑知识与技术 11~(6) (2015) 156--157.
+
+\bibitem{yzl2017}
+闫泽霖, 面向广播电台移动应用的 web
+  管理平台的设计与实现, Master's thesis, 中国科学院大学
+  (中国科学院工程管理与信息技术学院) (2017).
+
+\bibitem{zdx2019}
+周旭东, 基于 redis 分布式存储的负载平衡及性能优化研究,
+  Master's thesis, 南京邮电大学 (2019).
+
+\bibitem{zss2018}
+邹珊珊, 基于微信公众平台的校园订餐系统设计与实现,
+  Master's thesis, 扬州大学 (2018).
+
+\bibitem{liu2014design}
+T.~B. Liu, Design and implement an application development platform based on
+  open source technology, in: Advanced Materials Research, Vol. 989, Trans Tech
+  Publ, 2014, pp. 4332--4337.
+
+\bibitem{swain2019electrical}
+A.~Swain, P.~A. Kumar, V.~Gorige, Electrical conduction mechanism for the
+  investigation of charge ordering in pr0. 5ca0. 5mno3 manganite system,
+  Journal of Magnetism and Magnetic Materials 485 (2019) 358--368.
+
+\bibitem{zcy2013redis}
+曾超宇, 李金香, Redis 在高速缓存系统中的应用,
+  微型机与应用 32~(12) (2013) 11--13.
+
+\bibitem{wl2016}
+王磊, 微服务架构与实践, 电子工业出版社, 2016.
+
+\bibitem{lhf2013mvc}
+李海峰, Mvc 模式架构的应用研究, 自动化与仪器仪表 1 (2013)
+  4--6.
+
+\bibitem{syp2018}
+申燕萍, 何梦磊, 基于微信小程序的点餐系统,
+  电脑知识与技术~(4) (2018) 27.
+
+\bibitem{wxl}
+温晓丽, 苏浩伟, 陈欢, 邹大毕,
+  基于springboot微服务架构的城市一卡通手机充值支撑系统研究,
+  电子产品世界~(10)  64--67.
+
+\bibitem{xjfMySQL}
+谢季峰, 陈汶滨, Mysql数据库与.net技术集成的研究与应用,
+  信息技术~(6)  167--168+171.
+
+\bibitem{ssh2019}
+宋思华, 基于微信公众平台的网上订餐系统的设计与实现,
+  企业科技与发展~(9) (2019) 45.
+
+\bibitem{sjb2019}
+沈金波, 智慧订餐系统的设计与应用, 福建电脑~(9) (2019) 7.
+
+\bibitem{dj2019}
+戴静, 马奇奇, 王帅, 吕浩伟, 谈继军,
+  基于android的智能顺风订餐系统的设计与实现, 科技风.
+
+\bibitem{hsp2017}
+黄素萍, 刘敏娜, 聂维, 网上订餐系统的设计与实现,
+  电脑知识与技术~(26) (2017) 44.
+
+\bibitem{jq2016}
+江庆, 叶浩荣, Vue＋webpack框架在银行app前端开发的应用,
+  金融科技时代~(11) (2016) 15--19.
+
+\bibitem{fff}
+冯菲菲, 邹连英,
+  基于webpack及react技术的scratch互动在线学习平台设计,
+  电脑知识与技术 v.14~(20)  60--62+67.
+
+\bibitem{czz2018}
+程子珍, 基于微信小程序的网上购物系统的设计与实现,
+  Master's thesis, 首都经济贸易大学 (2018).
+
+\bibitem{lby2019}
+李柏言, 基于 arm 的智能餐厅服务机器人, 科技与创新~(22)
+  (2019) 20--23.
+
+\bibitem{mys2019}
+缪应生, 李杰, 闫伟, 孟娇娇,
+  “互联网+”时代下基于健康食谱的点餐系统设计.
+
+\bibitem{zzz2019}
+赵泽忠, 程江珂, 基于移动端的智能点餐系统设计与实现,
+  电脑知识与技术.
+
+\bibitem{dwh2019}
+戴文辉, 赵碧荣, 周雪梅, 戴永辉,
+  移动点餐系统的设计与实现, 电脑知识与技术~(19).
+
+\bibitem{lz2019}
+刘琤, 赵桓鑫, 王先勇, 基于spring
+  boot技术的微信平台校园食堂智能点餐系统设计,
+  无线互联科技.
+
+\bibitem{qjh2019}
+邱俊豪, 朱文列, 李健, 纪毓新, 基于java
+  web的“共享南国”食堂点餐系统的设计与实现,
+  现代信息科技.
+
+\bibitem{jzh2019}
+蒋智慧, 童莲,
+  基于微信小程序的食堂点餐系统的设计与实现,
+  现代信息科技~(24) (2019) 5.
+
+\bibitem{dyh}
+戴永辉, 戴伟辉, 韩冬梅, 赵碧荣, 傅露鸣,
+  移动餐饮点单与智能推荐系统.
+
+\bibitem{lzt2015}
+吕志韬, 某连锁餐饮点菜系统的设计与实现.
+
+\bibitem{wzz2016}
+王珍珍, 基于服务设计下的智慧点餐系统设计, 2016.
+
+\bibitem{abf}
+敖冰峰, 软件教学中关于软件设计的概要设计与详细设计,
+  北方经贸~(5)  119--120.
+
+\bibitem{tkx2014}
+谭楷祥, 基于微信公众平台的点餐系统的设计与实现, Ph.D.
+  thesis, 南京大学 (2014).
+
+\end{thebibliography}

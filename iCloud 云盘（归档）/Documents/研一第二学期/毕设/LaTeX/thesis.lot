@@ -1,0 +1,37 @@
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {3.1}{\ignorespaces 彭庆福餐厅点单系统的主要功能需求列表}}{20}{table.3.1}% 
+\contentsline {table}{\numberline {3.2}{\ignorespaces 到店点单用例表}}{22}{table.3.2}% 
+\contentsline {table}{\numberline {3.3}{\ignorespaces 外卖点单用例表}}{23}{table.3.3}% 
+\contentsline {table}{\numberline {3.4}{\ignorespaces 个人中心用例表}}{24}{table.3.4}% 
+\contentsline {table}{\numberline {3.5}{\ignorespaces 我的订单管理用例表}}{25}{table.3.5}% 
+\contentsline {table}{\numberline {3.6}{\ignorespaces 出品发布管理用例表}}{27}{table.3.6}% 
+\contentsline {table}{\numberline {3.7}{\ignorespaces 订单发布管理用例表}}{28}{table.3.7}% 
+\contentsline {table}{\numberline {3.8}{\ignorespaces 座位管理用例表}}{29}{table.3.8}% 
+\contentsline {table}{\numberline {3.9}{\ignorespaces 统计报表用例表}}{30}{table.3.9}% 
+\contentsline {table}{\numberline {3.10}{\ignorespaces 非功能性需求表}}{30}{table.3.10}% 
+\contentsline {table}{\numberline {3.11}{\ignorespaces 顾客实体数据库表Customer}}{37}{table.3.11}% 
+\contentsline {table}{\numberline {3.12}{\ignorespaces 商家实体数据库表Merchant}}{37}{table.3.12}% 
+\contentsline {table}{\numberline {3.13}{\ignorespaces 座位实体数据库表Seat}}{37}{table.3.13}% 
+\contentsline {table}{\numberline {3.14}{\ignorespaces 菜品实体数据库表Product}}{38}{table.3.14}% 
+\contentsline {table}{\numberline {3.15}{\ignorespaces 订单实体数据库表Order}}{38}{table.3.15}% 
+\contentsline {table}{\numberline {3.16}{\ignorespaces 订单明细实体数据库表OrderItem}}{38}{table.3.16}% 
+\contentsline {table}{\numberline {3.17}{\ignorespaces 计划实体数据库表Plan}}{39}{table.3.17}% 
+\contentsline {table}{\numberline {3.18}{\ignorespaces 计划明细实体数据库表PlanItem}}{39}{table.3.18}% 
+\contentsline {table}{\numberline {3.19}{\ignorespaces 营业时间实体数据库表PlanSlot}}{39}{table.3.19}% 
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {4.1}{\ignorespaces 订单发布模块涉及到的类及描述}}{44}{table.4.1}% 
+\addvspace {10.0pt}
+\contentsline {table}{\numberline {5.1}{\ignorespaces 线下开发与测试环境}}{72}{table.5.1}% 
+\contentsline {table}{\numberline {5.2}{\ignorespaces 预上线集成与测试环境}}{72}{table.5.2}% 
+\contentsline {table}{\numberline {5.3}{\ignorespaces 到店多次下单功能测试用例}}{73}{table.5.3}% 
+\contentsline {table}{\numberline {5.4}{\ignorespaces 偏远地区外卖点单功能测试用例}}{74}{table.5.4}% 
+\contentsline {table}{\numberline {5.5}{\ignorespaces 支付功能测试用例}}{74}{table.5.5}% 
+\contentsline {table}{\numberline {5.6}{\ignorespaces 用户角色功能测试用例}}{75}{table.5.6}% 
+\contentsline {table}{\numberline {5.7}{\ignorespaces 统计报表功能测试用例}}{75}{table.5.7}% 
+\contentsline {table}{\numberline {5.8}{\ignorespaces 出品发布功能测试用例}}{76}{table.5.8}% 
+\contentsline {table}{\numberline {5.9}{\ignorespaces 座位管理功能测试用例}}{76}{table.5.9}% 
+\addvspace {10.0pt}
+\addvspace {10.0pt}

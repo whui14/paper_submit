@@ -1,0 +1,86 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: thesis.aux
+The style file: elsart-num.bst
+Database file #1: reference.bib
+Warning--empty year in yy
+Warning--empty year in gcf
+Warning--empty year in htxO2O
+Warning--there's a number but no volume in ln2019
+Warning--empty year in mys
+Warning--there's a number but no volume in gblSpringBoot
+Warning--empty year in gblSpringBoot
+Warning--there's a number but no volume in zch2017
+Warning--there's a number but no volume in wyl2019
+Warning--there's a number but no volume in xmh2019
+Warning--there's a number but no volume in wzf
+Warning--there's a number but no volume in yxq
+Warning--there's a number but no volume in lh
+Warning--empty year in lh
+Warning--there's a number but no volume in hhl2011
+Warning--there's a number but no volume in lb2019kafka
+Warning--empty year in gzy
+Warning--empty publisher in lb2009
+Warning--there's a number but no volume in ymh
+Warning--empty year in ymh
+Warning--there's a number but no volume in syp2018
+Warning--there's a number but no volume in wxl
+Warning--empty year in wxl
+Warning--there's a number but no volume in xjfMySQL
+Warning--empty year in xjfMySQL
+Warning--there's a number but no volume in ssh2019
+Warning--there's a number but no volume in sjb2019
+Warning--there's a number but no volume in hsp2017
+Warning--there's a number but no volume in jq2016
+Warning--empty year in fff
+Warning--there's a number but no volume in lby2019
+Warning--empty journal in mys2019
+Warning--there's a number but no volume in dwh2019
+Warning--there's a number but no volume in jzh2019
+Warning--empty journal in lzt2015
+Warning--empty booktitle in wzz2016
+Warning--empty pages in wzz2016
+Warning--there's a number but no volume in abf
+Warning--empty year in abf
+You've used 54 entries,
+            2336 wiz_defined-function locations,
+            846 strings with 10318 characters,
+and the built_in function-call counts, 9339 in all, are:
+= -- 662
+> -- 420
+< -- 2
++ -- 176
+- -- 122
+* -- 791
+:= -- 1467
+add.period$ -- 54
+call.type$ -- 54
+change.case$ -- 51
+chr.to.int$ -- 0
+cite$ -- 93
+duplicate$ -- 403
+empty$ -- 1034
+format.name$ -- 151
+if$ -- 2007
+int.to.chr$ -- 0
+int.to.str$ -- 54
+missing$ -- 49
+newline$ -- 170
+num.names$ -- 54
+pop$ -- 177
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 186
+stack$ -- 0
+substring$ -- 502
+swap$ -- 38
+text.length$ -- 2
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 39
+while$ -- 94
+width$ -- 56
+write$ -- 430
+(There were 39 warnings)
