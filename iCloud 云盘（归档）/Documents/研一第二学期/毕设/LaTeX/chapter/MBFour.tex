@@ -33,11 +33,9 @@
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=\linewidth]{FIGs/chapter4/order.pdf}
+    \includegraphics[width=5.2in]{FIGs/chapter4/order.pdf}
     \caption{订单发布模块关键类图}\label{fig_order}
 \end{figure}
-
-如表~\ref{table:1List}所示，订单发布模块主要关联到的java类有OrderController(订单控制接口)、OrderService(订单服务接口)、OrderClient(订单客户端接口)、SimpleResponse(简单响应服务)、AnnouncementClient(发布客户端接口)、ProductPlanService(生产计划服务接口)、MemberService(用户服务接口)、OrderItemDao(订单条目)。\\
 
 \begin{table}[htbp!]\footnotesize
     \centering
@@ -67,15 +65,18 @@
     \label{table:1List}
 \end{table}
 
+如表~\ref{table:1List}所示，订单发布模块主要关联到的java类有OrderController(订单控制接口)、OrderService(订单服务接口)、OrderClient(订单客户端接口)、SimpleResponse(简单响应服务)、AnnouncementClient(发布客户端接口)、ProductPlanService(生产计划服务接口)、MemberService(用户服务接口)、OrderItemDao(订单条目)。\\
+
 \subsection{订单发布模块实现}
-如图~\ref{fig_order_time}所示，
-这是用户到店点餐的过程，用户下单首先会调用OrderController的order\_dishes()方法创建订单，然后会调用OrderService中的orderImmediately()方法创建订单相关内容，在该方法中调用了generateAnnouncementOrder()方法创建订单发布，调用了OrderItemDao类中updateState()方法更新订单发布状态，最终返回给用户订单详情。
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=\linewidth]{FIGs/chapter4/order_time.pdf}
+    \includegraphics[width=5in]{FIGs/chapter4/order_time.pdf}
     \caption{用户到店点餐的时序图}\label{fig_order_time}
 \end{figure}
+
+如图~\ref{fig_order_time}所示，
+这是用户到店点餐的过程，用户下单首先会调用OrderController的order\_dishes()方法创建订单，然后会调用OrderService中的orderImmediately()方法创建订单相关内容，在该方法中调用了generateAnnouncementOrder()方法创建订单发布，调用了OrderItemDao类中updateState()方法更新订单发布状态，最终返回给用户订单详情。
 
 这是到店点餐的过程，预约点餐、外卖点餐与之类似，下单后需要根据下单类型创建相应的订单，运行不同任务以及改变其他模块的相关内容~\cite{jq2016}。如果是预约点餐，系统会将预约时间段的座位修改为已占用状态，允许用户在规定时间之前取消订单；如果是外卖点餐，系统会提醒商家确认接单，分配骑手送单等。
 
@@ -180,7 +181,7 @@
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=4.3in]{FIGs/chapter4/4.pdf}
+    \includegraphics[width=4.4in]{FIGs/chapter4/4.pdf}
     \caption{是否打折的代码片段}\label{fig_user_4}
 \end{figure}
 
@@ -188,17 +189,17 @@
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=5.3in]{FIGs/chapter4/5.pdf}
+    \includegraphics[width=5.5in]{FIGs/chapter4/5.pdf}
     \caption{获取用户所有的角色列表代码片段}\label{fig_user_5}
 \end{figure}
+
+用户可以在如图~\ref{fig_user_role_view}左侧所示的个人中心中，查看当前用户的账户、头像、角色，点击当前角色可以选择切换角色。如图~\ref{fig_user_role_view}右侧所示是当前顾客的角色列表（按照会员折扣降序排列），默认角色为最大折扣角色。
 
 \begin{figure}[htbp!]
     \centering
     \includegraphics[width=\linewidth]{FIGs/chapter4/user_role_view.pdf}
     \caption{个人中心}\label{fig_user_role_view}
 \end{figure}
-
-用户可以在如图~\ref{fig_user_role_view}左侧所示的个人中心中，查看当前用户的账户、头像、角色，点击当前角色可以选择切换角色。如图~\ref{fig_user_role_view}右侧所示是当前顾客的角色列表（按照会员折扣降序排列），默认角色为最大折扣角色。\\
 
 \section{统计报表模块}
 \subsection{统计报表模块介绍}
@@ -207,6 +208,7 @@
 商家可以在报表内筛选查看每日、每周、每月、每年的菜品统计、销售统计、收支等内容，便于对之后的菜品库存、经营策略、每日配餐组合等内容做出相应调整~\cite{dwh2019}。\\
 
 \subsection{统计报表模块详细设计}
+如图~\ref{fig_table}所示是统计报表模块的类图，这里涉及的几个类分别是：ReportFormController类是报表控制接口，可以查看并下载简单报表、复杂日报表、复杂月报表、菜品进销存报表、原材料进销存报表等；ReportFormService类是报表服务接口，主要提供获取简单报表、复杂日报表、复杂月报表等服务，其中IReportFormService是它的实现类；OrderItemDao类前面有介绍过，这里主要用于提供订单详情，其中IOrderItemDao是它的实现类。
 
 \begin{figure}[htbp!]
     \centering
@@ -214,17 +216,14 @@
     \caption{统计报表模块类图}\label{fig_table}
 \end{figure}
 
-如图~\ref{fig_table}所示是统计报表模块的类图，这里涉及的几个类分别是：ReportFormController类是报表控制接口，可以查看并下载简单报表、复杂日报表、复杂月报表、菜品进销存报表、原材料进销存报表等；ReportFormService类是报表服务接口，主要提供获取简单报表、复杂日报表、复杂月报表等服务，其中IReportFormService是它的实现类；OrderItemDao类前面有介绍过，这里主要用于提供订单详情，其中IOrderItemDao是它的实现类。\\
-
 \subsection{统计报表模块实现}
-
-如图~\ref{fig_table_time}所示是ReportFormController类dailyComplexForm方法的执行时序图，用户点击查看报表，会先调用控制层的查看日报表方法，接着调用ReportFormService类中的getComplexForm方法获取复杂的日报表，这里需要依赖到订单发布模块中OrderItemDao类的orderItemMap方法得到当日订单详情，经过处理返回给上一级，逐步获取、解析并处理好报表信息后，返回报表数据列表给用户。
-
 \begin{figure}[htbp!]
     \centering
     \includegraphics[width=5in]{FIGs/chapter4/table_time.pdf}
     \caption{查看日报表的时序图}\label{fig_table_time}
 \end{figure}
+
+如图~\ref{fig_table_time}所示是ReportFormController类dailyComplexForm方法的执行时序图，用户点击查看报表，会先调用控制层的查看日报表方法，接着调用ReportFormService类中的getComplexForm方法获取复杂的日报表，这里需要依赖到订单发布模块中OrderItemDao类的orderItemMap方法得到当日订单详情，经过处理返回给上一级，逐步获取、解析并处理好报表信息后，返回报表数据列表给用户。
 
 \begin{figure}[htbp!]
     \centering
@@ -386,16 +385,16 @@ SeatOrderDao主要提供座位订单的相关基本操作，比如标记座位�
 如图~\ref{fig_seat_map_edit}所示为编辑平面视图界面，默认地图会显示当前位置，用户可以点击导入平面布局图，可以上传自定义图片。用户可以将右边的座位卡片拖拽到左边地图中形成一个坐标点，点击即可查看相关联的座位信息；也可以先在左边地图中用钢笔工具画出一个闭环的多边形区域，再将座位卡片拖拽进多边形实现位置与卡片相关联。\\
 
 \section{出品发布模块}
-\subsection{出品发布模块介绍}
-出品发布模块主要负责每日出品计划、菜品计划、管理餐厅营业时间等，对外提供商家营业信息、出品计划、菜品信息等接口。\\
-
-\subsection{出品发布模块详细设计}
-
 \begin{figure}[htbp!]
     \centering
     \includegraphics[width=\linewidth]{FIGs/chapter4/dish.pdf}
     \caption{出品发布模块类图}\label{fig_dish}
 \end{figure}
+
+\subsection{出品发布模块介绍}
+出品发布模块主要负责每日出品计划、菜品计划、管理餐厅营业时间等，对外提供商家营业信息、出品计划、菜品信息等接口。\\
+
+\subsection{出品发布模块详细设计}
 
 如图~\ref{fig_dish}所示是出品发布模块的类图，这里涉及的几个类分别是：ProductPlanController类是出品发布控制接口，可以创建、修改、删除出品发布，保存草稿，获取菜单，获取开放时间，增删改出品发布时间段等~\cite{abf}。
 
@@ -411,7 +410,7 @@ TimerDao主要用于提供时间相关基本操作，比如通过ID获取时间�
 
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=\linewidth]{FIGs/chapter4/dish_time.pdf}
+    \includegraphics[width=4.5in]{FIGs/chapter4/dish_time.pdf}
     \caption{创建出品发布的时序图}\label{fig_dish_time}
 \end{figure}
 
@@ -433,13 +432,13 @@ TimerDao主要用于提供时间相关基本操作，比如通过ID获取时间�
     \caption{TimerService类中editTimer方法代码}\label{fig_dish_15}
 \end{figure}
 
-如图~\ref{fig_dish_15}所示是TimerService类中editTimer方法的实现代码，该方法用于修改当天出品发布的出品时间段。餐厅可能需要将营业时间分为早上营业时间、中午营业时间、晚上营业时间等多个时间段，所以修改时间段时除了需要判断结束时间不得早于开始时间，还需要判断出品时间段是否有重复，要修改的时间段是否已经有订单等。
-
 \begin{figure}[htbp!]
     \centering
-    \includegraphics[width=4.5in]{FIGs/chapter4/dish_detail.pdf}
+    \includegraphics[width=4in]{FIGs/chapter4/dish_detail.pdf}
     \caption{出品发布详情}\label{fig_dish_detail}
 \end{figure}
+
+如图~\ref{fig_dish_15}所示是TimerService类中editTimer方法的实现代码，该方法用于修改当天出品发布的出品时间段。餐厅可能需要将营业时间分为早上营业时间、中午营业时间、晚上营业时间等多个时间段，所以修改时间段时除了需要判断结束时间不得早于开始时间，还需要判断出品时间段是否有重复，要修改的时间段是否已经有订单等。
 
 如图~\ref{fig_dish_detail}所示为出品发布详情界面，由于该发布复用了之前的发布内容，所以创建后默认有与复用发布相同的营业时间段和出品计划菜单，商家可以修改当前发布的出品时间段、编辑时间段内的菜品种类及数量，查看采购需求、生产实况，及时上架、更新出品计划。\\
 

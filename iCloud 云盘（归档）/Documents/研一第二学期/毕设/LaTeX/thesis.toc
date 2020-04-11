@@ -64,10 +64,10 @@
 \contentsline {subsection}{\numberline {4.6.2}座位管理模块详细设计}{57}{subsection.4.6.2}% 
 \contentsline {subsection}{\numberline {4.6.3}座位管理模块实现}{58}{subsection.4.6.3}% 
 \contentsline {section}{\numberline {4.7}出品发布模块}{67}{section.4.7}% 
-\contentsline {subsection}{\numberline {4.7.1}出品发布模块介绍}{67}{subsection.4.7.1}% 
-\contentsline {subsection}{\numberline {4.7.2}出品发布模块详细设计}{67}{subsection.4.7.2}% 
-\contentsline {subsection}{\numberline {4.7.3}出品发布模块实现}{67}{subsection.4.7.3}% 
-\contentsline {section}{\numberline {4.8}本章小结}{70}{section.4.8}% 
+\contentsline {subsection}{\numberline {4.7.1}出品发布模块介绍}{68}{subsection.4.7.1}% 
+\contentsline {subsection}{\numberline {4.7.2}出品发布模块详细设计}{68}{subsection.4.7.2}% 
+\contentsline {subsection}{\numberline {4.7.3}出品发布模块实现}{68}{subsection.4.7.3}% 
+\contentsline {section}{\numberline {4.8}本章小结}{71}{section.4.8}% 
 \contentsline {chapter}{\numberline {第五章\hspace {.3em}}系统测试}{72}{chapter.5}% 
 \contentsline {section}{\numberline {5.1}系统测试环境}{72}{section.5.1}% 
 \contentsline {subsection}{\numberline {5.1.1}测试与开发环境}{72}{subsection.5.1.1}% 
