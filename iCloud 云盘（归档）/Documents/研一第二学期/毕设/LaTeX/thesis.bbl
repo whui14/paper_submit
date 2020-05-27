@@ -3,21 +3,35 @@
   \def\url#1{\texttt{#1}}\fi
 \expandafter\ifx\csname urlprefix\endcsname\relax\def\urlprefix{URL }\fi
 
-\bibitem{DBLP:series/txcs/Voorhees20}
-D.~P. Voorhees, Guide to Efficient Software Design - An {MVC} Approach to
-  Concepts, Structures, and Models, Texts in Computer Science, Springer, 2020.
-\newline\urlprefix\url{https://doi.org/10.1007/978-3-030-28501-2}
+\bibitem{lee2016innovation}
+C.~Lee, R.~Hallak, S.~R. Sardeshmukh, Innovation, entrepreneurship, and
+  restaurant performance: A higher-order structural model, Tourism Management
+  53 (2016) 215--228.
 
-\bibitem{yy}
-杨毅, 高校餐饮管理系统的设计与实现, Ph.D. thesis, 天津大学.
+\bibitem{harman2015systems}
+B.~Harman, Systems and methods for take-out order analytics, {US} Patent
+  9,105,041 (Aug.~11 2015).
 
-\bibitem{gcf}
-郭朝飞, 郭纭记, 美味不用等:餐饮互联网化新玩法,
-  中国企业家 No.491~(24)  79--82.
+\bibitem{Du2019/10}
+Y.~Du, Research on laborer's rights and interests protection under o2o
+  mode——outsiders and; platforms are the entry points, in: 4th
+  International Conference on Modern Management, Education Technology and
+  Social Science (MMETSS 2019), Atlantis Press, 2019/10.
+\newline\urlprefix\url{https://doi.org/10.2991/mmetss-19.2019.124}
 
-\bibitem{htxO2O}
-侯腾轩, O2o外卖平台商业模式研究r——以"美团外卖"为例,
-  全国流通经济 000~(22)  7--8.
+\bibitem{garrett2018mobile}
+J.~M. Garrett, R.~Connelly, Mobile restaurant ordering system, {US} Patent
+  10,109,026 (Oct.~23 2018).
+
+\bibitem{dev2004system}
+R.~Dev, M.~Samber, M.~Craig, A.~Mckenzie, K.~Ward, System and method for
+  providing self-service restaurant ordering and payment, {US} Patent App.
+  10/620,717 (Aug.~12 2004).
+
+\bibitem{mueller1992customer}
+R.~J. Mueller, Customer operable system for a retail store or fast-food
+  restaurant having plural ordering stations, {US} Patent 5,128,862 (Jul.~7
+  1992).
 
 \bibitem{DBLP:journals/jbi/VelupillaiSLRSM18}
 S.~Velupillai, H.~Suominen, M.~Liakata, A.~Roberts, A.~Shah, K.~Morley,
@@ -27,210 +41,148 @@ S.~Velupillai, H.~Suominen, M.~Liakata, A.~Roberts, A.~Shah, K.~Morley,
   (2018) 11--19.
 \newline\urlprefix\url{https://doi.org/10.1016/j.jbi.2018.10.005}
 
-\bibitem{tyd2019}
-唐亚东, 罗恩韬, 赵全友,
-  基于mvc模式的湘科院点餐系统的设计与实现, 期刊 (2019)
-  2--4.
+\bibitem{scifo2009online}
+D.~Scifo, M.~Scifo, D.~Scifo, L.~Valente, R.~Valente, Online food ordering
+  system and method, {US} Patent App. 12/069,895 (Aug.~13 2009).
 
-\bibitem{xf2012}
-薛峰, 梁锋, 徐书勋, 王彪任, 基于 spring mvc 框架的 web
-  研究与应用, 合肥工業大學學報 (自然科學版) 35~(3) (2012)
-  337--340.
+\bibitem{sharma2017mastering}
+S.~Sharma, Mastering Microservices with Java 9: Build domain-driven
+  microservice-based applications with Spring, Spring Cloud, and Angular, Packt
+  Publishing Ltd, 2017.
 
-\bibitem{ab2006}
-A.~Bretet, 张龙, 覃璐, 李哲, 丁涛, Spring mvc实战, 期刊 (2019)
-  2--4.
+\bibitem{zsf2019}
+章仕锋, 潘善亮, 基于微服务架构的国土档案系统,
+  计算机系统应用 28~(7) (2019) 44--50.
 
-\bibitem{ln2019}
-李娜, 基于spring cloud微服务架构的应用,
-  电子技术与软件工程~(12) (2019) 142--142.
+\bibitem{cosmina2017spring}
+I.~Cosmina, Spring microservices with {S}pring {C}loud, in: Pivotal Certified
+  Professional Spring Developer Exam, Springer, 2017, pp. 435--459.
 
-\bibitem{hqw2019}
-黄强文, 曾丹, 基于spring
-  cloud和docker的分布式微服务架构设计, 微型电脑应用.
+\bibitem{sharma2019mastering}
+S.~Sharma, Mastering Microservices with Java: Build Enterprise Microservices
+  with Spring Boot 2.0, Spring Cloud, and Angular, Packt Publishing Ltd, 2019.
 
-\bibitem{mys}
-毛煜苏, 基于spring cloud微服务架构的评论系统的设计与实现,
-  Ph.D. thesis, 华中科技大学.
+\bibitem{walls2016spring}
+C.~Walls, Spring Boot in action, Manning Publications, 2016.
 
-\bibitem{gblSpringBoot}
-葛宝龙, 邓欣, 秦嘉罗,
-  Springboot集成redis缓存在电信运营系统中的应用研究,
-  中国新通信~(23)  106--108.
+\bibitem{antonov2018spring}
+A.~Antonov, Spring Boot 2.0 Cookbook: Configure, test, extend, deploy, and
+  monitor your Spring Boot application both outside and inside the cloud, Packt
+  Publishing Ltd, 2018.
 
-\bibitem{zch2017}
-张火成, 张宏升,
-  基于websocket和redis的实时web监控技术在wifi管理上的应用,
-  信息与电脑(理论版)~(6) (2017) 43--45.
+\bibitem{yang2014druid}
+F.~Yang, E.~Tschetter, X.~L{\'e}aut{\'e}, N.~Ray, G.~Merlino, D.~Ganguli,
+  Druid: A real-time analytical data store, in: Proceedings of the 2014 ACM
+  SIGMOD international conference on Management of data, 2014, pp. 157--168.
 
-\bibitem{wyl2019}
-王悦霖, 刘立士, 韩东奇, 基于 redis
-  的分布式通信算法在仿真前后台的应用与测试,
-  科技创新导报~(26) (2019) 74.
+\bibitem{singh1990druid}
+G.~Singh, C.~H. Kok, T.~Y. Ngan, Druid: a system for demonstrational rapid user
+  interface development, in: Proceedings of the 3rd annual ACM SIGGRAPH
+  symposium on User interface software and technology, 1990, pp. 167--177.
 
-\bibitem{xmh2019}
-徐茂红, 王飞, 张明, 基于大数据量的 redis 技术应用与研究,
-  信息技术与信息化~(11) (2019) 83.
+\bibitem{carlson2013redis}
+J.~L. Carlson, Redis in action, Manning Publications Co., 2013.
 
-\bibitem{wzf}
-王张夫, 基于nginx和redis架构的高并发框架的设计与研究,
-  信息通信~(2).
+\bibitem{lerner2010forge}
+R.~M. Lerner, At the forge: Redis, Linux Journal 2010~(197) (2010) 5.
 
-\bibitem{yxq}
-严新巧, 基于移动开发现状探讨react native,
-  电脑知识与技术~(32).
+\bibitem{macedo2011redis}
+T.~Macedo, F.~Oliveira, Redis Cookbook: Practical Techniques for Fast Data
+  Manipulation, " O'Reilly Media, Inc.", 2011.
 
-\bibitem{lh}
-李欢, 李云红, 张震宇,
-  基于react＋webpack的“健康资讯”app开发,
-  西安工程大学学报~(4)  455--460.
+\bibitem{da2015redis}
+M.~D. Da~Silva, H.~L. Tavares, Redis Essentials, Packt Publishing Ltd, 2015.
 
-\bibitem{hhl2011}
-何红雷, 位置即生活——高德地图amap上市, 微电脑世界~(6)
-  (2011) 133--133.
+\bibitem{nelson2016mastering}
+J.~Nelson, Mastering Redis, Packt Publishing Ltd, 2016.
 
-\bibitem{lb2019kafka}
-刘邦, 余华平, Kafka 分布式消息队列的高性能研究,
-  电脑知识与技术~(32) (2019) 3.
+\bibitem{banks2017learning}
+A.~Banks, E.~Porcello, Learning React: functional web development with React
+  and Redux, " O'Reilly Media, Inc.", 2017.
 
-\bibitem{gzy}
-顾振德, 刘子辰, 龙隆, 牟林宏,
-  基于netty的iot终端通信服务系统设计, 计算机应用与软件
-  36~(04)  141--145.
+\bibitem{sutcliffe1983antibodies}
+J.~G. Sutcliffe, T.~M. Shinnick, N.~Green, R.~A. Lerner, Antibodies that
+  {R}eact with predetermined sites on proteins, Science 219~(4585) (1983)
+  660--666.
 
-\bibitem{lb2009}
-骆斌, 需求工程:软件建模与分析, 2009.
+\bibitem{chinnathambi2018learning}
+K.~Chinnathambi, Learning React: A Hands-on Guide to Building Web Applications
+  Using React and Redux, Addison-Wesley Professional, 2018.
 
-\bibitem{ymh}
-严茂宏, 软件工程与计算机应用, 桂林电子科技大学学报~(01)
-  8--16.
+\bibitem{master2016}
+J.~Vepslinen, Survivejs-{W}ebpack and {R}eact: From apprentice to master (2016)
+  1--2.
 
-\bibitem{zh2015}
-张华, 软件工程专业毕业设计质量提高的研究,
-  电脑知识与技术 11~(6) (2015) 156--157.
+\bibitem{mardan2017react}
+A.~Mardan, React Quickly: Painless Web Apps with React, JSX, Redux, and
+  GraphQL, Manning Publications Co., 2017.
 
-\bibitem{yzl2017}
-闫泽霖, 面向广播电台移动应用的 web
-  管理平台的设计与实现, Master's thesis, 中国科学院大学
-  (中国科学院工程管理与信息技术学院) (2017).
+\bibitem{subramanian2017modularization}
+V.~Subramanian, Modularization and {W}ebpack, in: Pro MERN Stack, Springer,
+  2017, pp. 115--150.
 
-\bibitem{zdx2019}
-周旭东, 基于 redis 分布式存储的负载平衡及性能优化研究,
-  Master's thesis, 南京邮电大学 (2019).
+\bibitem{deleuze1986kafka}
+G.~Deleuze, Kafka: Toward a minor literature, Vol.~30, U of Minnesota Press,
+  1986.
 
-\bibitem{zss2018}
-邹珊珊, 基于微信公众平台的校园订餐系统设计与实现,
-  Master's thesis, 扬州大学 (2018).
+\bibitem{kafka1979basic}
+F.~Kafka, The Basic Kafka, Vol. 82561, Simon and Schuster, 1979.
 
-\bibitem{liu2014design}
-T.~B. Liu, Design and implement an application development platform based on
-  open source technology, in: Advanced Materials Research, Vol. 989, Trans Tech
-  Publ, 2014, pp. 4332--4337.
+\bibitem{kreps2011kafka}
+J.~Kreps, N.~Narkhede, J.~Rao, et~al., Kafka: A distributed messaging system
+  for log processing, in: Proceedings of the NetDB, Vol.~11, 2011, pp. 1--7.
+
+\bibitem{xu2017study}
+W.~Xu, The study of wechat payment users willingness factor, Journal of Service
+  Science and Management 10~(3) (2017) 251--259.
+
+\bibitem{yamamoto1999raw}
+T.~Yamamoto, M.~Ogawa, E.~Yoshida, M.~Hotta, T.~Morita, A.~Omori, Raw materials
+  ordering system, {US} Patent 5,914,878 (Jun.~22 1999).
+
+\bibitem{carroll2011system}
+R.~D. Carroll, A.~R. Ferber, K.~Fox, M.~A. Jones, S.~M. Jonsson, H.~J. Ko,
+  E.~E. Luna, J.~Pollard, C.~R. Price, P.~Price, et~al., System and method for
+  generating a restaurant order on a wireless mobile personal computer, {US}
+  Patent App. 12/760,534 (Oct.~20 2011).
+
+\bibitem{battistini1999order}
+M.~Battistini, G.~Battistini, Order communication system for restaurant, {US}
+  Patent 5,907,275 (May~25 1999).
 
 \bibitem{swain2019electrical}
 A.~Swain, P.~A. Kumar, V.~Gorige, Electrical conduction mechanism for the
   investigation of charge ordering in pr0. 5ca0. 5mno3 manganite system,
   Journal of Magnetism and Magnetic Materials 485 (2019) 358--368.
 
-\bibitem{zcy2013redis}
-曾超宇, 李金香, Redis 在高速缓存系统中的应用,
-  微型机与应用 32~(12) (2013) 11--13.
+\bibitem{balalaie2016microservices}
+A.~Balalaie, A.~Heydarnoori, P.~Jamshidi, Microservices architecture enables
+  devops: Migration to a cloud-native architecture, Ieee Software 33~(3) (2016)
+  42--52.
 
-\bibitem{wl2016}
-王磊, 微服务架构与实践, 电子工业出版社, 2016.
+\bibitem{liu2015application}
+W.~Liu, X.~He, P.~Zhang, Application of red envelopes--new weapon of wechat
+  payment, in: 2015 International Conference on Education, Management,
+  Information and Medicine, Atlantis Press, 2015, pp. 45--76.
 
-\bibitem{lhf2013mvc}
-李海峰, Mvc 模式架构的应用研究, 自动化与仪器仪表 1 (2013)
-  4--6.
+\bibitem{venugopal2017containerized}
+M.~Venugopal, Containerized microservices architecture, International Journal
+  Of Engineering And Computer Science 6~(11) (2017) 23199--23208.
 
-\bibitem{syp2018}
-申燕萍, 何梦磊, 基于微信小程序的点餐系统,
-  电脑知识与技术~(4) (2018) 27.
+\bibitem{DBLP:conf/socpar/ShimmuraTA09}
+T.~Shimmura, T.~Takenaka, M.~Akamatsu, Real-time process management system in a
+  restaurant by sharing food order information, in: A.~Abraham, A.~K. Muda,
+  N.~S. Herman, S.~M. Shamsuddin, Y.~Choo (Eds.), First International
+  Conference of Soft Computing and Pattern Recognition, SoCPaR 2009, Malacca,
+  Malaysia, December 4-7, 2009, {IEEE} Computer Society, 2009, pp. 703--706.
+\newline\urlprefix\url{https://doi.org/10.1109/SoCPaR.2009.141}
 
-\bibitem{wxl}
-温晓丽, 苏浩伟, 陈欢, 邹大毕,
-  基于springboot微服务架构的城市一卡通手机充值支撑系统研究,
-  电子产品世界~(10)  64--67.
-
-\bibitem{xjfMySQL}
-谢季峰, 陈汶滨, Mysql数据库与.net技术集成的研究与应用,
-  信息技术~(6)  167--168+171.
-
-\bibitem{ssh2019}
-宋思华, 基于微信公众平台的网上订餐系统的设计与实现,
-  企业科技与发展~(9) (2019) 45.
-
-\bibitem{sjb2019}
-沈金波, 智慧订餐系统的设计与应用, 福建电脑~(9) (2019) 7.
-
-\bibitem{dj2019}
-戴静, 马奇奇, 王帅, 吕浩伟, 谈继军,
-  基于android的智能顺风订餐系统的设计与实现, 科技风.
-
-\bibitem{hsp2017}
-黄素萍, 刘敏娜, 聂维, 网上订餐系统的设计与实现,
-  电脑知识与技术~(26) (2017) 44.
-
-\bibitem{jq2016}
-江庆, 叶浩荣, Vue＋webpack框架在银行app前端开发的应用,
-  金融科技时代~(11) (2016) 15--19.
-
-\bibitem{fff}
-冯菲菲, 邹连英,
-  基于webpack及react技术的scratch互动在线学习平台设计,
-  电脑知识与技术 v.14~(20)  60--62+67.
-
-\bibitem{czz2018}
-程子珍, 基于微信小程序的网上购物系统的设计与实现,
-  Master's thesis, 首都经济贸易大学 (2018).
-
-\bibitem{lby2019}
-李柏言, 基于 arm 的智能餐厅服务机器人, 科技与创新~(22)
-  (2019) 20--23.
-
-\bibitem{mys2019}
-缪应生, 李杰, 闫伟, 孟娇娇,
-  “互联网+”时代下基于健康食谱的点餐系统设计.
-
-\bibitem{zzz2019}
-赵泽忠, 程江珂, 基于移动端的智能点餐系统设计与实现,
-  电脑知识与技术.
-
-\bibitem{dwh2019}
-戴文辉, 赵碧荣, 周雪梅, 戴永辉,
-  移动点餐系统的设计与实现, 电脑知识与技术~(19).
-
-\bibitem{lz2019}
-刘琤, 赵桓鑫, 王先勇, 基于spring
-  boot技术的微信平台校园食堂智能点餐系统设计,
-  无线互联科技.
-
-\bibitem{qjh2019}
-邱俊豪, 朱文列, 李健, 纪毓新, 基于java
-  web的“共享南国”食堂点餐系统的设计与实现,
-  现代信息科技.
-
-\bibitem{jzh2019}
-蒋智慧, 童莲,
-  基于微信小程序的食堂点餐系统的设计与实现,
-  现代信息科技~(24) (2019) 5.
-
-\bibitem{dyh}
-戴永辉, 戴伟辉, 韩冬梅, 赵碧荣, 傅露鸣,
-  移动餐饮点单与智能推荐系统.
-
-\bibitem{lzt2015}
-吕志韬, 某连锁餐饮点菜系统的设计与实现.
-
-\bibitem{wzz2016}
-王珍珍, 基于服务设计下的智慧点餐系统设计, 2016.
-
-\bibitem{abf}
-敖冰峰, 软件教学中关于软件设计的概要设计与详细设计,
-  北方经贸~(5)  119--120.
-
-\bibitem{tkx2014}
-谭楷祥, 基于微信公众平台的点餐系统的设计与实现, Ph.D.
-  thesis, 南京大学 (2014).
+\bibitem{DBLP:conf/icisa/YangPSC13}
+W.~T. Yang, S.~Y. Park, D.~Suh, S.~Chang, {LAMF:} lighting adjustment for mood
+  by food: {RFID} based context aware food ordering and lighting control system
+  at restaurants, in: International Conference on Information Science and
+  Applications, {ICISA} 2013, Hilton Pattaya Hotel, Pattaya, Thailand, June
+  24-26, 2013, {IEEE}, 2013, pp. 1--3.
+\newline\urlprefix\url{http://doi.ieeecomputersociety.org/10.1109/ICISA.2013.6579498}
 
 \end{thebibliography}

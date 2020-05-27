@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.27)  12 APR 2020 02:15
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019) (preloaded format=xelatex 2020.2.27)  27 MAY 2020 22:43
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1143,10 +1143,10 @@ LaTeX Info: Redefining \nameref on input line 87.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-File: FIGs/reviewPlaceholder.pdf Graphic file (type pdf)
-<use FIGs/reviewPlaceholder.pdf>
-File: FIGs/reviewPlaceholder.pdf Graphic file (type pdf)
-<use FIGs/reviewPlaceholder.pdf>
+File: FIGs/njulogo.pdf Graphic file (type pdf)
+<use FIGs/njulogo.pdf>
+File: FIGs/njuname.pdf Graphic file (type pdf)
+<use FIGs/njuname.pdf>
 
 Package fontspec Warning: Font "Songti SC Light" does not contain requested
 (fontspec)                Script "CJK".
@@ -1211,27 +1211,27 @@ Package fontspec Info: Font family 'TimesNewRoman(1)' created for font 'Times
 (fontspec)             Roman/BI/OT:script=latn;language=DFLT;"
 (fontspec)             - 'bold italic small caps'  (bx/itsc) with NFSS spec.: 
 
-LaTeX Font Info:    Try loading font information for OT1+txr on input line 136.
+LaTeX Font Info:    Try loading font information for OT1+txr on input line 137.
 (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/ot1txr.fd
 File: ot1txr.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsya on input line 136.
+LaTeX Font Info:    Try loading font information for U+txsya on input line 137.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsya.fd
 File: utxsya.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyb on input line 136.
+LaTeX Font Info:    Try loading font information for U+txsyb on input line 137.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsyb.fd
 File: utxsyb.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txmia on input line 136.
+LaTeX Font Info:    Try loading font information for U+txmia on input line 137.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxmia.fd
 File: utxmia.fd 2000/12/15 v3.1
 )
-LaTeX Font Info:    Try loading font information for U+txsyc on input line 136.
+LaTeX Font Info:    Try loading font information for U+txsyc on input line 137.
  (/usr/local/texlive/2019/texmf-dist/tex/latex/txfonts/utxsyc.fd
 File: utxsyc.fd 2000/12/15 v3.1
 )
-Overfull \hbox (15.02458pt too wide) in paragraph at lines 136--136
+Overfull \hbox (15.02458pt too wide) in paragraph at lines 137--137
  [][] 
  []
 
@@ -1241,8 +1241,8 @@ Overfull \hbox (15.02458pt too wide) in paragraph at lines 136--136
 ] [2
 
 ]
-File: FIGs/reviewPlaceholder.pdf Graphic file (type pdf)
-<use FIGs/reviewPlaceholder.pdf>
+File: FIGs/njulogo.pdf Graphic file (type pdf)
+<use FIGs/njulogo.pdf>
  [3
 
 ]
@@ -1299,87 +1299,85 @@ Package fontspec Info: Font family 'HeitiSC(0)' created for font 'Heiti SC'
 
 ] [2] [3] [4]) (./chapter/MBTwo.tex [5]
 第二章
-File: FIGs/chapter2/springMVC.pdf Graphic file (type pdf)
-<use FIGs/chapter2/springMVC.pdf>
-[6
-
-]
-File: FIGs/chapter2/springMVC2.pdf Graphic file (type pdf)
-<use FIGs/chapter2/springMVC2.pdf>
- [7]
 File: FIGs/chapter2/springCloud.pdf Graphic file (type pdf)
 <use FIGs/chapter2/springCloud.pdf>
- [8]
 File: FIGs/chapter2/springBoot.pdf Graphic file (type pdf)
 <use FIGs/chapter2/springBoot.pdf>
- [9]
+[6
+
+] [7]
 File: FIGs/chapter2/druid.pdf Graphic file (type pdf)
 <use FIGs/chapter2/druid.pdf>
- [10] [11]
-Underfull \hbox (badness 10000) in paragraph at lines 114--115
+ [8] [9]
+Underfull \hbox (badness 10000) in paragraph at lines 82--83
+
+ []
+
+[10]
+Underfull \hbox (badness 10000) in paragraph at lines 95--96
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 99--100
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 102--103
+
+ []
+
+[11]
+Underfull \hbox (badness 10000) in paragraph at lines 107--108
 
  []
 
 [12]
-Underfull \hbox (badness 10000) in paragraph at lines 127--128
+Underfull \hbox (badness 10000) in paragraph at lines 132--137
 
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 131--132
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 134--135
-
- []
-
-[13]
-Underfull \hbox (badness 10000) in paragraph at lines 139--140
-
- []
-
-[14]
-Underfull \hbox (badness 10000) in paragraph at lines 164--169
-
- []
-
-[15]) (./chapter/MBThree.tex [16]
+[13]) (./chapter/MBThree.tex [14]
 第三章
-[17
+[15
 
 ]
 File: FIGs/chapter3/struc.pdf Graphic file (type pdf)
 <use FIGs/chapter3/struc.pdf>
 File: FIGs/chapter3/function.pdf Graphic file (type pdf)
 <use FIGs/chapter3/function.pdf>
- [18]
-Underfull \hbox (badness 10000) in paragraph at lines 39--40
+ [16]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
  []
 
-[19]
-Underfull \hbox (badness 10000) in paragraph at lines 84--85
+[17]
+Underfull \hbox (badness 10000) in paragraph at lines 85--86
 
  []
 
-[20]
+[18]
 File: FIGs/chapter3/customer.pdf Graphic file (type pdf)
 <use FIGs/chapter3/customer.pdf>
- [21] [22] [23] [24]
-File: FIGs/chapter3/seller.pdf Graphic file (type pdf)
-<use FIGs/chapter3/seller.pdf>
- [25] [26] [27]
-Underfull \hbox (badness 10000) in paragraph at lines 541--542
+ [19] [20] [21]
+Underfull \hbox (badness 10000) in paragraph at lines 313--314
 
  []
 
-[28] [29] [30]
+[22]
+File: FIGs/chapter3/seller.pdf Graphic file (type pdf)
+<use FIGs/chapter3/seller.pdf>
+ [23] [24] [25]
+Underfull \hbox (badness 10000) in paragraph at lines 544--545
+
+ []
+
+[26] [27] [28]
 File: FIGs/chapter3/flow.pdf Graphic file (type pdf)
 <use FIGs/chapter3/flow.pdf>
- [31]
-Underfull \hbox (badness 10000) in paragraph at lines 600--601
+ [29]
+Underfull \hbox (badness 10000) in paragraph at lines 603--604
 
  []
 
@@ -1387,81 +1385,64 @@ File: FIGs/chapter3/logic.pdf Graphic file (type pdf)
 <use FIGs/chapter3/logic.pdf>
 File: FIGs/chapter3/develop.pdf Graphic file (type pdf)
 <use FIGs/chapter3/develop.pdf>
-[32]
+[30]
 File: FIGs/chapter3/all.pdf Graphic file (type pdf)
 <use FIGs/chapter3/all.pdf>
- [33] [34]
-Underfull \hbox (badness 10000) in paragraph at lines 632--633
+ [31] [32]
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 
  []
 
 File: FIGs/chapter3/physics.pdf Graphic file (type pdf)
 <use FIGs/chapter3/physics.pdf>
-[35]
+[33]
 File: FIGs/chapter3/ER.pdf Graphic file (type pdf)
 <use FIGs/chapter3/ER.pdf>
- [36] [37] [38] [39]) (./chapter/MBFour.tex [40]
+ [34] [35] [36] [37]) (./chapter/MBFour.tex [38]
 第四章
 File: FIGs/chapter4/model.pdf Graphic file (type pdf)
 <use FIGs/chapter4/model.pdf>
-[41
+[39
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 21--22
-
- []
-
-
 Underfull \hbox (badness 10000) in paragraph at lines 29--30
 
  []
 
-[42]
 File: FIGs/chapter4/order.pdf Graphic file (type pdf)
 <use FIGs/chapter4/order.pdf>
-
+[40]
 Underfull \hbox (badness 10000) in paragraph at lines 68--69
 
  []
 
-[43]
 File: FIGs/chapter4/order_time.pdf Graphic file (type pdf)
 <use FIGs/chapter4/order_time.pdf>
- [44]
+[41] [42]
 File: FIGs/chapter4/1.pdf Graphic file (type pdf)
 <use FIGs/chapter4/1.pdf>
 File: FIGs/chapter4/order_view.pdf Graphic file (type pdf)
 <use FIGs/chapter4/order_view.pdf>
 File: FIGs/chapter4/order_view_all.pdf Graphic file (type pdf)
 <use FIGs/chapter4/order_view_all.pdf>
- [45] [46]
-Underfull \hbox (badness 10000) in paragraph at lines 107--108
-
- []
-
-
+ [43] [44]
 Underfull \hbox (badness 10000) in paragraph at lines 117--118
 
  []
 
 File: FIGs/chapter4/pay_time.pdf Graphic file (type pdf)
 <use FIGs/chapter4/pay_time.pdf>
-[47]
+
 Underfull \hbox (badness 10000) in paragraph at lines 128--130
 
  []
 
+[45]
 File: FIGs/chapter4/pay_token.pdf Graphic file (type pdf)
 <use FIGs/chapter4/pay_token.pdf>
-[48]
+ [46]
 File: FIGs/chapter4/2.pdf Graphic file (type pdf)
 <use FIGs/chapter4/2.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 155--156
-
- []
-
-[49]
 File: FIGs/chapter4/3.pdf Graphic file (type pdf)
 <use FIGs/chapter4/3.pdf>
 
@@ -1469,141 +1450,135 @@ Underfull \hbox (badness 10000) in paragraph at lines 165--166
 
  []
 
+[47]
 File: FIGs/chapter4/user.pdf Graphic file (type pdf)
 <use FIGs/chapter4/user.pdf>
-[50]
-Underfull \hbox (badness 10000) in paragraph at lines 176--178
+
+Underfull \hbox (badness 10000) in paragraph at lines 177--178
 
  []
 
+[48]
 File: FIGs/chapter4/4.pdf Graphic file (type pdf)
 <use FIGs/chapter4/4.pdf>
-[51]
+ [49]
 File: FIGs/chapter4/5.pdf Graphic file (type pdf)
 <use FIGs/chapter4/5.pdf>
- [52]
 File: FIGs/chapter4/user_role_view.pdf Graphic file (type pdf)
 <use FIGs/chapter4/user_role_view.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 208--209
+ [50]
+Underfull \hbox (badness 10000) in paragraph at lines 211--212
 
  []
 
 File: FIGs/chapter4/table.pdf Graphic file (type pdf)
 <use FIGs/chapter4/table.pdf>
+
+Underfull \hbox (badness 10000) in paragraph at lines 220--221
+
+ []
+
+[51]
 File: FIGs/chapter4/table_time.pdf Graphic file (type pdf)
 <use FIGs/chapter4/table_time.pdf>
-[53] [54]
 File: FIGs/chapter4/6.pdf Graphic file (type pdf)
 <use FIGs/chapter4/6.pdf>
 File: FIGs/chapter4/7.pdf Graphic file (type pdf)
 <use FIGs/chapter4/7.pdf>
+ [52]
 File: FIGs/chapter4/table_figure.pdf Graphic file (type pdf)
 <use FIGs/chapter4/table_figure.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 250--251
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 254--255
+ [53]
+Underfull \hbox (badness 10000) in paragraph at lines 259--260
 
  []
 
-[55] [56]
+[54]
 File: FIGs/chapter4/seat.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat.pdf>
-
-Underfull \hbox (badness 10000) in paragraph at lines 264--270
+ [55]
+Underfull \hbox (badness 10000) in paragraph at lines 278--279
 
  []
 
-[57]
 File: FIGs/chapter4/seat_time.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_time.pdf>
 File: FIGs/chapter4/8.pdf Graphic file (type pdf)
 <use FIGs/chapter4/8.pdf>
+[56]
 File: FIGs/chapter4/seat_add.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_add.pdf>
- [58] [59]
+ [57]
 File: FIGs/chapter4/9.pdf Graphic file (type pdf)
 <use FIGs/chapter4/9.pdf>
 File: FIGs/chapter4/10.pdf Graphic file (type pdf)
 <use FIGs/chapter4/10.pdf>
+ [58]
 File: FIGs/chapter4/seat_detail.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_detail.pdf>
- [60] [61]
+ [59]
 File: FIGs/chapter4/seat_list.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_list.pdf>
+ [60]
 File: FIGs/chapter4/11.pdf Graphic file (type pdf)
 <use FIGs/chapter4/11.pdf>
 File: FIGs/chapter4/seat_time_view.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_time_view.pdf>
- [62] [63]
+ [61]
 File: FIGs/chapter4/12.pdf Graphic file (type pdf)
 <use FIGs/chapter4/12.pdf>
- [64]
 File: FIGs/chapter4/13.pdf Graphic file (type pdf)
 <use FIGs/chapter4/13.pdf>
 File: FIGs/chapter4/seat_map.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_map.pdf>
+ [62]
 File: FIGs/chapter4/seat_map_edit.pdf Graphic file (type pdf)
 <use FIGs/chapter4/seat_map_edit.pdf>
 
-Underfull \hbox (badness 10000) in paragraph at lines 385--386
+Underfull \hbox (badness 10000) in paragraph at lines 399--400
 
  []
 
+[63]
 File: FIGs/chapter4/dish.pdf Graphic file (type pdf)
 <use FIGs/chapter4/dish.pdf>
-[65] [66]
-Underfull \hbox (badness 10000) in paragraph at lines 395--396
-
- []
-
-[67]
-Underfull \hbox (badness 10000) in paragraph at lines 407--408
+ [64]
+Underfull \hbox (badness 10000) in paragraph at lines 416--417
 
  []
 
 File: FIGs/chapter4/dish_time.pdf Graphic file (type pdf)
 <use FIGs/chapter4/dish_time.pdf>
-[68]
+[65]
 File: FIGs/chapter4/14.pdf Graphic file (type pdf)
 <use FIGs/chapter4/14.pdf>
 File: FIGs/chapter4/15.pdf Graphic file (type pdf)
 <use FIGs/chapter4/15.pdf>
 File: FIGs/chapter4/dish_detail.pdf Graphic file (type pdf)
 <use FIGs/chapter4/dish_detail.pdf>
- [69] [70]
-Underfull \hbox (badness 10000) in paragraph at lines 443--444
-
- []
-
-) (./chapter/MBFive.tex [71]
+ [66] [67]) (./chapter/MBFive.tex [68]
 第五章
 
 Underfull \hbox (badness 10000) in paragraph at lines 55--57
 
  []
 
-[72
+[69
 
-] [73] [74] [75]
+] [70] [71] [72]
 Underfull \hbox (badness 10000) in paragraph at lines 255--257
 
  []
 
-[76]) (./chapter/MBSix.tex [77]
+[73]) (./chapter/MBSix.tex [74]
 第六章
+[75
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
-
+]) (./thesis.bbl [76]
+Underfull \hbox (badness 1360) in paragraph at lines 12--14
+[]\TU/TimesNewRoman(0)/m/n/12.045 B. Harman, Systems and methods for take-out order analytics, US Patent
  []
 
-[78
-
-]) (./thesis.bbl [79]
 
 Package fontspec Warning: Font "STFangsong" does not contain requested Script
 (fontspec)                "CJK".
@@ -1620,11 +1595,11 @@ Package fontspec Info: Could not resolve font "STFangsong/B" (it probably
 Package fontspec Info: Could not resolve font "STFangsong/I" (it probably
 (fontspec)             doesn't exist).
 
-LaTeX Font Info:    Try loading font information for TU+txtt on input line 9.
-LaTeX Font Info:    No file TUtxtt.fd. on input line 9.
+LaTeX Font Info:    Try loading font information for TU+txtt on input line 20.
+LaTeX Font Info:    No file TUtxtt.fd. on input line 20.
 
 LaTeX Font Warning: Font shape `TU/txtt/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line 9.
+(Font)              using `TU/lmr/m/n' instead on input line 20.
 
 
 Package fontspec Info: Font family 'STFangsong(0)' created for font
@@ -1636,31 +1611,45 @@ Package fontspec Info: Font family 'STFangsong(0)' created for font
 (fontspec)             - 'normal' (m/n) with NFSS spec.: <->"STFangsong/OT"
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.: 
 
-[80
 
-] [81] [82]) [83]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 307.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 307.
+Underfull \hbox (badness 1308) in paragraph at lines 23--25
+[]\TU/TimesNewRoman(0)/m/n/12.045 J. M. Garrett, R. Connelly, Mobile restaurant ordering system, US Patent
+ []
+
+
+Underfull \hbox (badness 4036) in paragraph at lines 49--52
+[]\TU/TimesNewRoman(0)/m/n/12.045 S. Sharma, Mastering Microservices with Java 9: Build domain-driven
+ []
+
+[77
+
+] [78] [79]) [80]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 306.
+ [81
+
+
+]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 306.
  (./thesis.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 307.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 307.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 306.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 306.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 5DE106A4FC7A2BA67E53374EEE2A028C.
+(rerunfilecheck)             Checksum: B62CBD820A04ACD6BDD8CB4BB69A7BC8.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 307.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 306.
  )
 (\end occurred when \iffalse on line 73 was incomplete)
 (\end occurred when \iffalse on line 75 was incomplete) 
 Here is how much of TeX's memory you used:
- 30768 strings out of 492916
- 624404 string characters out of 6133345
- 733684 words of memory out of 5000000
- 34277 multiletter control sequences out of 15000+600000
+ 30707 strings out of 492916
+ 623832 string characters out of 6133345
+ 733213 words of memory out of 5000000
+ 34217 multiletter control sequences out of 15000+600000
  579183 words of font info for 255 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 65i,12n,75p,913b,634s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 65i,12n,75p,913b,618s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on thesis.pdf (96 pages).
+Output written on thesis.pdf (94 pages).

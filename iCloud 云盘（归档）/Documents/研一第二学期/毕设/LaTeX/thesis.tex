@@ -1,7 +1,7 @@
 %%]dvipdfm
 \expandafter\def\csname CTEX@spaceChar\endcsname{\hspace{1em}}
 % \documentclass[master]{NJUthesis}
-\documentclass[oneside, master,review, UTF8]{NJUthesis}
+\documentclass[oneside, master, UTF8]{NJUthesis}
 % 可选参数：
 %   review 审阅模式，激活后个人、导师与学校信息均被隐去
 %   oneside/twoside 单面/双面打印
@@ -21,7 +21,7 @@
 % 设置链接颜色
 \hypersetup{
 % pdf 属性
-             pdftitle={LaTeX Thesis Template of Nanjing University}, %
+             pdftitle={LaTeX Thesis Template }, %
             pdfauthor={San Zhang},
             CJKbookmarks=false
 }
@@ -110,15 +110,15 @@
 \title{彭庆福餐厅点单系统的设计与实现}
 \author{王卉}
 % MF1832157
-\studentnum{}
+\studentnum{MF1832157}
 \grade{2018}
 \advisor{\kaishu 邵栋~~副教授}
 
 \major{\kaishu 工程硕士（软件工程领域）}
 \researchfield{\kaishu 软件工程}
-\footdate{\kaishu 2020~年~X~月}
-\submitdate{\kaishu 2020~年~X~月~XX~日}
-\defenddate{\kaishu 2020~年~X~月~XX~日}
+\footdate{\kaishu 2020~年~5~月}
+\submitdate{\kaishu 2020~年~4~月~29~日}
+\defenddate{\kaishu 2020~年~5~月~20~日}
 
 
 
@@ -130,6 +130,7 @@
 \englishinstitute{Software Institute}
 \englishdegree{Master of Engineering}
 \englishmajor{Software Engineering}
+% \englishdate{20th May, 2020}
 \englishdate{May 2020}
 
 % 制作封面命令
@@ -157,7 +158,7 @@
   商家管理平台为商家提供了菜品管理、座位管理、查看报表、餐厅座位库多视图（包括卡片视图、平面视图、时间轴视图）管理等功能。
   
   餐厅点单系统包括订单发布模块、支付模块、用户管理模块、统计报表模块、座位管理模块和出品发布模块，模块之间相互依赖，共同实现了系统功能。
-  该系统基于Spring Boot框架，后端的程序结构为典型的MVC结构，通过Druid数据库连接池进入到MySQL DBMS存储，使用Redis作为中间数据缓存，减少热点数据的长时间持续查询。
+  该系统基于Spring Boot框架，通过Druid数据库连接池进入到MySQL DBMS存储，使用Redis作为中间数据缓存，减少热点数据的长时间持续查询。
   前端使用React框架进行开发，使用React-AMap进行地图管理，基于Ant Design进行界面的定制化开发，使用Redux进行数据流管理，Webpack作为前端打包工具。
   
   彭庆福餐厅点单系统上线后，已有16家餐厅独立使用该软件，充分验证了系统的有效性。系统上线运行后，不仅大大降低了人力成本，还产生了丰富的数据记录，帮助餐厅进行经营策略上的调整，例如菜品储备可以参考菜品溯源数据，每日配餐可以参考菜品销售榜单数据。本系统具有一定的通用性和可扩展性，具有较好的实用价值。
@@ -180,17 +181,15 @@
 % 英文摘要
 \begin{englishabstract}
 
-With the continuous development of the Internet and the improvement of people's living standards, the customers' demands for meals are not only about eating well, but also about saving time, recording historical preferences, ensuring personal privacy and quick meals, etc.
-What merchants need is no longer just a simple process of providing food to customers and paying bills, but also fine-grained management of restaurants, such as tracing dishes, managing restaurant seats and adjusting business strategies based on the restaurant's historical statistical reports.
+With the continuous development of the Internet and the improvement of people's standard of living, the customer's demand for dining is not only to eat well, but also to save time, record historical preferences, ensure personal privacy, quick pick-up, etc.
+What merchants need is no longer just a simple process of providing food to customers and checkout, but also need to refine the management of the restaurant, such as the traceability of dishes, restaurant seating management, and adjust business strategy based on the restaurant's historical statistical reports.
 
-In order to solve the above-mentioned problems, the Peng Qingfu restaurant ordering system implemented in this thesis 
-provides practical and personalized services from the perspectives of customer privacy, dish traceability and merchant management, which improves the interaction between merchants and customers. Thus it increases the satisfaction of customers.
-The system includes two entrances for the customer ordering platform on the mobile phone side and the merchant management platform on the Web side.
+In order to solve the above problems, the Peng Qingfu restaurant ordering system implemented in this thesis provides practical and personalized services from the perspectives of customer privacy, dish traceability and merchant management, which improves the interaction between merchants and customers. Thus it enhances the satisfaction of customers. The system includes two entrances, the customer ordering platform on the mobile phone side and the merchant management platform on the Web side. 
 The customer ordering platform provides customers with a convenient ordering tool, which can order, check out, cancel dishes, view orders.
 The merchant management platform provides merchants with functions such as dish  management, seat management, report viewing and management of multiple views of the restaurant's seating library, including card view, flat view, timeline view.
 
 The restaurant ordering system includes order announcement module, payment module, user management module, statistical report module, seat management module and production announcement module. The modules are interdependent and jointly implement system functions.
-The system is based on the Spring Boot framework. The back end program structure is a typical MVC structure. It is accessed to the MySQL DBMS storage through the Druid database connection pool and uses Redis as an intermediate data cache to reduce long-term continuous query of hot data.
+The system is based on the Spring Boot framework. It is accessed to the MySQL DBMS storage through the Druid database connection pool and uses Redis as an intermediate data cache to reduce long-term continuous query of hot data.
 The front end uses the React framework for development, React-AMap for map management, Ant Design for custom development of the interface, Redux for data flow management and Webpack as a front-end packaging tool.
 
 After the Peng Qingfu restaurant ordering system was launched, 16 restaurants independently used the software, which fully verified the effectiveness of the system. 
@@ -287,21 +286,21 @@ For example, dish reserves can refer to dish traceability data and daily caterin
 \backmatter
 
 
-% \begin{thanks}
+\begin{thanks}
 
-% \vskip 18pt
+\vskip 18pt
 
-% 时光荏苒，论文完成到这里，我的研究生学习生活也即将告一段落。从项目的调研、需求讨论、界面设计，到代码的开发、调试与上线维护的这些岁月里，感谢有导师、任课老师、同学们以及我的家人对我的支持与鼓励。
+时光荏苒，论文完成到这里，我的研究生学习生活也即将告一段落。从项目的调研、需求讨论、界面设计，到代码的开发、调试与上线维护的这些岁月里，感谢有导师、任课老师、同学们以及我的家人对我的支持与鼓励。
 
-% 首先由衷地感谢我的导师邵栋老师，不管是项目的开发、课程的学习还是论文的编写，邵栋老师都耐心为我讲解疑惑之处，并给出指导和帮助。对论文的学术格式和行文上也给出了很多建议，为本篇论文的完成付出了很多。
+首先由衷地感谢我的导师邵栋老师，不管是项目的开发、课程的学习还是论文的编写，邵栋老师都耐心为我讲解疑惑之处，并给出指导和帮助。对论文的学术格式和行文上也给出了很多建议，为本篇论文的完成付出了很多。
 
-% 其次，我要感谢同组学长学姐，为我在技术上提供了很多支持，也要感谢和我一起实习的小伙伴们和一起工作的同事，感谢他们在繁忙的工作之余还帮助我解决一些问题，带我了解企业中的开发管理过程，也真正让我感受到了完整开发一款程序的成就感。
+其次，我要感谢同组学长学姐，为我在技术上提供了很多支持，也要感谢和我一起实习的小伙伴们和一起工作的同事，感谢他们在繁忙的工作之余还帮助我解决一些问题，带我了解企业中的开发管理过程，也真正让我感受到了完整开发一款程序的成就感。
 
-% 感谢我的父母、姐姐，谢谢你们对我提供经济和精神上的帮助，在我遇到瓶颈的时候，会不厌其烦地开导我、鼓励我，帮助我走出困境，坚持在这条道路上前行。
+感谢我的父母、姐姐，谢谢你们对我提供经济和精神上的帮助，在我遇到瓶颈的时候，会不厌其烦地开导我、鼓励我，帮助我走出困境，坚持在这条道路上前行。
 
-% 最后，还要感谢我的辅导员和南京大学软件学院的所有教职工人员，感谢你们为莘莘学子提供如此开放、广阔、充满阳光的环境。感谢各位答辩委员会的教授、专家，感谢你们不辞辛劳进行论文评审。
+最后，还要感谢我的辅导员和南京大学软件学院的所有教职工人员，感谢你们为莘莘学子提供如此开放、广阔、充满阳光的环境。感谢各位答辩委员会的教授、专家，感谢你们不辞辛劳地进行论文评审。
 
-% \end{thanks}
+\end{thanks}
 
 
 \end{document}

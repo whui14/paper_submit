@@ -1,61 +1,60 @@
 \addvspace {10.0pt}
 \addvspace {10.0pt}
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {2.1}{\ignorespaces Spring MVC框架图}}{6}{figure.2.1}% 
-\contentsline {figure}{\numberline {2.2}{\ignorespaces Spring MVC流程图}}{7}{figure.2.2}% 
-\contentsline {figure}{\numberline {2.3}{\ignorespaces Spring Cloud架构图}}{8}{figure.2.3}% 
-\contentsline {figure}{\numberline {2.4}{\ignorespaces Spring Boot组成图}}{9}{figure.2.4}% 
-\contentsline {figure}{\numberline {2.5}{\ignorespaces Druid工作流程图}}{10}{figure.2.5}% 
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Spring Cloud架构图}}{7}{figure.2.1}% 
+\contentsline {figure}{\numberline {2.2}{\ignorespaces Spring Boot组成图}}{7}{figure.2.2}% 
+\contentsline {figure}{\numberline {2.3}{\ignorespaces Druid工作流程图}}{8}{figure.2.3}% 
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {3.1}{\ignorespaces 系统整体结构图}}{18}{figure.3.1}% 
-\contentsline {figure}{\numberline {3.2}{\ignorespaces 系统功能需求结构图}}{19}{figure.3.2}% 
-\contentsline {figure}{\numberline {3.3}{\ignorespaces 顾客就餐模块用例图}}{21}{figure.3.3}% 
-\contentsline {figure}{\numberline {3.4}{\ignorespaces 商家管理模块用例图}}{26}{figure.3.4}% 
-\contentsline {figure}{\numberline {3.5}{\ignorespaces 顾客主页功能的执行流程图}}{31}{figure.3.5}% 
-\contentsline {figure}{\numberline {3.6}{\ignorespaces 彭庆福点单系统逻辑视图}}{33}{figure.3.6}% 
-\contentsline {figure}{\numberline {3.7}{\ignorespaces 彭庆福点单系统开发视图}}{33}{figure.3.7}% 
-\contentsline {figure}{\numberline {3.8}{\ignorespaces 系统架构图}}{34}{figure.3.8}% 
-\contentsline {figure}{\numberline {3.9}{\ignorespaces 彭庆福餐厅点单系统物理视图}}{35}{figure.3.9}% 
-\contentsline {figure}{\numberline {3.10}{\ignorespaces 彭庆福餐厅实体关系图}}{36}{figure.3.10}% 
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 系统整体结构图}}{16}{figure.3.1}% 
+\contentsline {figure}{\numberline {3.2}{\ignorespaces 系统功能需求结构图}}{17}{figure.3.2}% 
+\contentsline {figure}{\numberline {3.3}{\ignorespaces 顾客就餐模块用例图}}{19}{figure.3.3}% 
+\contentsline {figure}{\numberline {3.4}{\ignorespaces 商家管理模块用例图}}{24}{figure.3.4}% 
+\contentsline {figure}{\numberline {3.5}{\ignorespaces 顾客主页功能的执行流程图}}{29}{figure.3.5}% 
+\contentsline {figure}{\numberline {3.6}{\ignorespaces 彭庆福点单系统逻辑视图}}{31}{figure.3.6}% 
+\contentsline {figure}{\numberline {3.7}{\ignorespaces 彭庆福点单系统开发视图}}{31}{figure.3.7}% 
+\contentsline {figure}{\numberline {3.8}{\ignorespaces 系统架构图}}{32}{figure.3.8}% 
+\contentsline {figure}{\numberline {3.9}{\ignorespaces 彭庆福餐厅点单系统物理视图}}{33}{figure.3.9}% 
+\contentsline {figure}{\numberline {3.10}{\ignorespaces 彭庆福餐厅实体关系图}}{34}{figure.3.10}% 
 \addvspace {10.0pt}
-\contentsline {figure}{\numberline {4.1}{\ignorespaces 系统模块结构图}}{41}{figure.4.1}% 
-\contentsline {figure}{\numberline {4.2}{\ignorespaces 订单发布模块关键类图}}{43}{figure.4.2}% 
-\contentsline {figure}{\numberline {4.3}{\ignorespaces 用户到店点餐的时序图}}{44}{figure.4.3}% 
-\contentsline {figure}{\numberline {4.4}{\ignorespaces 生成订单发布代码片段}}{45}{figure.4.4}% 
-\contentsline {figure}{\numberline {4.5}{\ignorespaces 顾客下单后的订单详情}}{46}{figure.4.5}% 
-\contentsline {figure}{\numberline {4.6}{\ignorespaces 订单发布详情和打印订单页面}}{46}{figure.4.6}% 
-\contentsline {figure}{\numberline {4.7}{\ignorespaces 点单系统支付模块时序图}}{47}{figure.4.7}% 
-\contentsline {figure}{\numberline {4.8}{\ignorespaces 用户获取token时序图}}{48}{figure.4.8}% 
-\contentsline {figure}{\numberline {4.9}{\ignorespaces 判断微信支付代码片段}}{49}{figure.4.9}% 
-\contentsline {figure}{\numberline {4.10}{\ignorespaces 商家收款代码片段}}{50}{figure.4.10}% 
-\contentsline {figure}{\numberline {4.11}{\ignorespaces 用户管理模块类图}}{51}{figure.4.11}% 
-\contentsline {figure}{\numberline {4.12}{\ignorespaces 是否打折的代码片段}}{52}{figure.4.12}% 
-\contentsline {figure}{\numberline {4.13}{\ignorespaces 获取用户所有的角色列表代码片段}}{52}{figure.4.13}% 
-\contentsline {figure}{\numberline {4.14}{\ignorespaces 个人中心}}{53}{figure.4.14}% 
-\contentsline {figure}{\numberline {4.15}{\ignorespaces 统计报表模块类图}}{54}{figure.4.15}% 
-\contentsline {figure}{\numberline {4.16}{\ignorespaces 查看日报表的时序图}}{54}{figure.4.16}% 
-\contentsline {figure}{\numberline {4.17}{\ignorespaces ReportFormService类getComplexForm方法代码}}{55}{figure.4.17}% 
-\contentsline {figure}{\numberline {4.18}{\ignorespaces ReportFormService类中makeSimpleReportForm方法代码}}{56}{figure.4.18}% 
-\contentsline {figure}{\numberline {4.19}{\ignorespaces 简单报表}}{56}{figure.4.19}% 
-\contentsline {figure}{\numberline {4.20}{\ignorespaces 座位管理模块类图}}{57}{figure.4.20}% 
-\contentsline {figure}{\numberline {4.21}{\ignorespaces 创建座位的时序图}}{58}{figure.4.21}% 
-\contentsline {figure}{\numberline {4.22}{\ignorespaces 前端AddSeatModal类渲染界面部分代码}}{59}{figure.4.22}% 
-\contentsline {figure}{\numberline {4.23}{\ignorespaces 登记座位}}{59}{figure.4.23}% 
-\contentsline {figure}{\numberline {4.24}{\ignorespaces SeatOrderService类addTakeUpSeatOrder方法代码}}{60}{figure.4.24}% 
-\contentsline {figure}{\numberline {4.25}{\ignorespaces SeatService类中getSeatDetail方法代码}}{61}{figure.4.25}% 
-\contentsline {figure}{\numberline {4.26}{\ignorespaces 座位详情}}{61}{figure.4.26}% 
-\contentsline {figure}{\numberline {4.27}{\ignorespaces 座位卡片视图列表}}{62}{figure.4.27}% 
-\contentsline {figure}{\numberline {4.28}{\ignorespaces 实现时间轴视图SeatTimelineContainer类代码片段}}{63}{figure.4.28}% 
-\contentsline {figure}{\numberline {4.29}{\ignorespaces 座位库时间轴视图}}{63}{figure.4.29}% 
-\contentsline {figure}{\numberline {4.30}{\ignorespaces 实现平面视图FlatViewContainer类代码片段}}{64}{figure.4.30}% 
-\contentsline {figure}{\numberline {4.31}{\ignorespaces MouseToolPlugin类handleDrawAll方法代码}}{65}{figure.4.31}% 
-\contentsline {figure}{\numberline {4.32}{\ignorespaces 座位库平面视图}}{66}{figure.4.32}% 
-\contentsline {figure}{\numberline {4.33}{\ignorespaces 编辑平面视图}}{66}{figure.4.33}% 
-\contentsline {figure}{\numberline {4.34}{\ignorespaces 出品发布模块类图}}{67}{figure.4.34}% 
-\contentsline {figure}{\numberline {4.35}{\ignorespaces 创建出品发布的时序图}}{68}{figure.4.35}% 
-\contentsline {figure}{\numberline {4.36}{\ignorespaces ProductPlanService类createProductPlan方法代码}}{69}{figure.4.36}% 
-\contentsline {figure}{\numberline {4.37}{\ignorespaces TimerService类中editTimer方法代码}}{70}{figure.4.37}% 
-\contentsline {figure}{\numberline {4.38}{\ignorespaces 出品发布详情}}{70}{figure.4.38}% 
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 系统模块结构图}}{39}{figure.4.1}% 
+\contentsline {figure}{\numberline {4.2}{\ignorespaces 订单发布模块关键类图}}{41}{figure.4.2}% 
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 用户到店点餐的时序图}}{42}{figure.4.3}% 
+\contentsline {figure}{\numberline {4.4}{\ignorespaces 生成订单发布代码片段}}{43}{figure.4.4}% 
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 顾客下单后的订单详情}}{44}{figure.4.5}% 
+\contentsline {figure}{\numberline {4.6}{\ignorespaces 订单发布详情和打印订单页面}}{44}{figure.4.6}% 
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 点单系统支付模块时序图}}{45}{figure.4.7}% 
+\contentsline {figure}{\numberline {4.8}{\ignorespaces 用户获取token时序图}}{46}{figure.4.8}% 
+\contentsline {figure}{\numberline {4.9}{\ignorespaces 判断微信支付代码片段}}{47}{figure.4.9}% 
+\contentsline {figure}{\numberline {4.10}{\ignorespaces 商家收款代码片段}}{48}{figure.4.10}% 
+\contentsline {figure}{\numberline {4.11}{\ignorespaces 用户管理模块类图}}{49}{figure.4.11}% 
+\contentsline {figure}{\numberline {4.12}{\ignorespaces 是否打折的代码片段}}{49}{figure.4.12}% 
+\contentsline {figure}{\numberline {4.13}{\ignorespaces 获取用户所有的角色列表代码片段}}{50}{figure.4.13}% 
+\contentsline {figure}{\numberline {4.14}{\ignorespaces 个人中心}}{51}{figure.4.14}% 
+\contentsline {figure}{\numberline {4.15}{\ignorespaces 统计报表模块类图}}{52}{figure.4.15}% 
+\contentsline {figure}{\numberline {4.16}{\ignorespaces 查看日报表的时序图}}{53}{figure.4.16}% 
+\contentsline {figure}{\numberline {4.17}{\ignorespaces ReportFormService类getComplexForm方法代码}}{53}{figure.4.17}% 
+\contentsline {figure}{\numberline {4.18}{\ignorespaces ReportFormService类中makeSimpleReportForm方法代码}}{54}{figure.4.18}% 
+\contentsline {figure}{\numberline {4.19}{\ignorespaces 简单报表}}{54}{figure.4.19}% 
+\contentsline {figure}{\numberline {4.20}{\ignorespaces 座位管理模块类图}}{55}{figure.4.20}% 
+\contentsline {figure}{\numberline {4.21}{\ignorespaces 创建座位的时序图}}{56}{figure.4.21}% 
+\contentsline {figure}{\numberline {4.22}{\ignorespaces 前端AddSeatModal类渲染界面部分代码}}{57}{figure.4.22}% 
+\contentsline {figure}{\numberline {4.23}{\ignorespaces 登记座位}}{57}{figure.4.23}% 
+\contentsline {figure}{\numberline {4.24}{\ignorespaces SeatOrderService类addTakeUpSeatOrder方法代码}}{58}{figure.4.24}% 
+\contentsline {figure}{\numberline {4.25}{\ignorespaces SeatService类中getSeatDetail方法代码}}{59}{figure.4.25}% 
+\contentsline {figure}{\numberline {4.26}{\ignorespaces 座位详情}}{59}{figure.4.26}% 
+\contentsline {figure}{\numberline {4.27}{\ignorespaces 座位卡片视图列表}}{60}{figure.4.27}% 
+\contentsline {figure}{\numberline {4.28}{\ignorespaces 实现时间轴视图SeatTimelineContainer类代码片段}}{61}{figure.4.28}% 
+\contentsline {figure}{\numberline {4.29}{\ignorespaces 座位库时间轴视图}}{61}{figure.4.29}% 
+\contentsline {figure}{\numberline {4.30}{\ignorespaces 实现平面视图FlatViewContainer类代码片段}}{62}{figure.4.30}% 
+\contentsline {figure}{\numberline {4.31}{\ignorespaces MouseToolPlugin类handleDrawAll方法代码}}{63}{figure.4.31}% 
+\contentsline {figure}{\numberline {4.32}{\ignorespaces 座位库平面视图}}{63}{figure.4.32}% 
+\contentsline {figure}{\numberline {4.33}{\ignorespaces 编辑平面视图}}{64}{figure.4.33}% 
+\contentsline {figure}{\numberline {4.34}{\ignorespaces 出品发布模块类图}}{64}{figure.4.34}% 
+\contentsline {figure}{\numberline {4.35}{\ignorespaces 创建出品发布的时序图}}{65}{figure.4.35}% 
+\contentsline {figure}{\numberline {4.36}{\ignorespaces ProductPlanService类createProductPlan方法代码}}{66}{figure.4.36}% 
+\contentsline {figure}{\numberline {4.37}{\ignorespaces TimerService类中editTimer方法代码}}{67}{figure.4.37}% 
+\contentsline {figure}{\numberline {4.38}{\ignorespaces 出品发布详情}}{67}{figure.4.38}% 
+\addvspace {10.0pt}
 \addvspace {10.0pt}
 \addvspace {10.0pt}
 \addvspace {10.0pt}
